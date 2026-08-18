@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Résumé — kept locally, never published
+resume.html
+Prakash_Singh_Resume.pdf
+*.pdf
+
+# Source material — old CV, raw screenshots, hi-res photo
+source/
+*.docx
+*.doc
+Screenshot*.png
+*_reference.png
+*_stats.jpeg
+prakash_avatar.jpg
+
+# Build scratch
+.pv/
+.av_*.jpg
+*.log
+.av_b64.txt
+avatar-src.jpg
+
+# local deploy tool
+deploy.py

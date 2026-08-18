@@ -1,0 +1,35 @@
+# Prakash Kumar Singh
+
+> Agentic engineer. Founder of YourLio AI. Builds LLM agents, memory layers,
+> evals and automation and broadcast workflows that run in production.
+
+Site: https://prkskrs.github.io/
+
+## Who he is
+
+Prakash Kumar Singh is an agentic engineer based in Bengaluru, India. He designs
+and ships LLM agent systems: agent orchestration, memory that survives long
+horizons, retrieval, tool use, Model Context Protocol servers, evaluation
+pipelines, and automation and broadcast workflows across messaging platforms.
+
+## Current work
+
+Founder and CEO of YourLio AI, an agent platform where a single agent carries one
+memory layer across every channel a customer appears on. Live with 100+ brands,
+$2M+ in attributed revenue across 50K+ orders.
+
+## Background
+
+Founding engineer at AnswersAi, which Quizlet acquired, where he scaled serving to
+50K+ questions a day. Engineering at Sprouts.ai (backed by Accel), TexAu, Let's
+Hang (100K+ users) and Infosys. B.Tech in Computer Science, KLE Technological
+University.
+
+## Writing and teaching
+
+20+ articles on Medium and dev.to read 50K+ times, and developer video with
+multiple posts past 200K+ views. Combined audience over 500K+.
+
+## Contact
+
+prkskrs@gmail.com · https://github.com/prkskrs · https://www.linkedin.com/in/prkskrs/
